@@ -1,0 +1,2 @@
+﻿window.MADE_CUSTOMS_PRODUCTS = [];
+window.PREVIOUS_WORK_ITEMS = [];
